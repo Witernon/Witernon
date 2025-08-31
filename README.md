@@ -9,8 +9,7 @@
 :star2: [Esse é meu linkedin](www.linkedin.com/in/wyll-melo-b5469a280)
 -------------
 ## Essas são alguma tecnologias que venho praticando.
-![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
-
+![Javascript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
 
 <!--
 **Witernon/Witernon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
