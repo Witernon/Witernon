@@ -1,5 +1,5 @@
 # Olá, sejam bem-vindos aos meus repositórios! 👋
-![gif de trabalho](https://share.google/images/UrxenyxnimstnHQr8)
+![](https://share.google/images/UrxenyxnimstnHQr8)
 
 
 
