@@ -8,8 +8,12 @@
 :cop: Aceito indicações de estudos ou de códigos para estudar.<br>
 :star2: [Esse é meu linkedin](www.linkedin.com/in/wyll-melo-b5469a280)
 -------------
-## Essas são alguma tecnologias que venho praticando.
-![Javascript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
+## Algumas das tecnologias e linguagens que venho praticando ou tenho alguma intimidade.
+![CSS](https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor)
+![Java](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
+![Wordpress](https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor)
+![Javascript](https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor)
+
 
 <!--
 **Witernon/Witernon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
