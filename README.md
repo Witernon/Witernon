@@ -7,12 +7,15 @@
 :running: Atualmente venho me aperfeiçoando no aprendizado do Github e desenvolvo portfólios para terceiros.<br>
 :cop: Aceito indicações de estudos ou de códigos para estudar.<br>
 :star2: [Esse é meu linkedin](www.linkedin.com/in/wyll-melo-b5469a280)
--------------
+
 ## Algumas das tecnologias e linguagens que venho praticando ou tenho alguma intimidade.
-![CSS](https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor)
-![Java](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)
-![Wordpress](https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor)
-![Javascript](https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor)
+![HTML](https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor)
+![CSS](https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor)
+![Java](https://icongr.am/devicon/java-original-wordmark.svg?size=100&color=currentColor)
+![Wordpress](https://icongr.am/devicon/wordpress-original.svg?size=100&color=currentColor)
+![Javascript](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)
+![Github](https://icongr.am/devicon/git-original.svg?size=100&color=currentColor)
+![Arduíno](https://icongr.am/simple/arduino.svg?size=100&color=currentColor&colored=false)
 
 
 <!--
